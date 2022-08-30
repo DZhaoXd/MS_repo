@@ -6,7 +6,7 @@
 |:----------------------------:|:----------------------------------------------------:|:------:|:---------:|
 |           Softmax            |                   实现原始版本的softmax函数                   | SeaElm | 2022.8.30 |  
 | PixelSoftmaxCrossEntropyLoss |              实现像素级别的掩膜softmax交叉熵损失函数计算               | SeaElm | 2022.8.30 |
-|       model_save_multi       | 保存多模型及其他附加中间信息，加载需要配合split_checkpoint使用，测试版，若不可用即使联系 | SeaElm | 2022.8.30 |
+|       model_save_multi       | 保存多模型及其他附加中间信息，加载需要配合split_checkpoint使用，测试版，若不可用及时联系 | SeaElm | 2022.8.30 |
 |       split_checkpoint       |        对model_save_multi保存的多模型进行划分，得到正确的模型参数         | SeaElm | 2022.8.30 |
 
 ## 注意
